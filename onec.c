@@ -1,1 +1,4 @@
-Attitude is my middle name
+#include<stdio.h>
+void main(){
+  printf("good morning");
+}
